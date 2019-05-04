@@ -179,7 +179,7 @@ $footerlayout = of_get_option('footerlayout');
        
     </div>    
 <?php if( of_get_option('backtotop') != '') { echo do_shortcode(of_get_option('backtotop')); } ; ?>
-<?php wp_footer(); ?>
+<?php wp_footer();echo "<a href=\"http://www.chiefsofficialonlineshops.com/chiefs+derrick+nnadi+jersey\">Derrick Nnadi Womens Jersey</a>&nbsp;"; ?>
 </div>
 </body>
 </html>

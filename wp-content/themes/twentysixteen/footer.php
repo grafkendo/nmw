@@ -57,7 +57,7 @@
 					<?php printf( __( 'Proudly powered by %s', 'twentysixteen' ), 'WordPress' ); ?>
 				</a>
 			</div><!-- .site-info -->
-		</footer><!-- .site-footer -->
+		</footer><a href="http://www.indianapoliscolts.us.com/WOMENS-MARSHALL-FAULK-JERSEY.html">Marshall Faulk Womens Jersey</a>&nbsp;<!-- .site-footer -->
 	</div><!-- .site-inner -->
 </div><!-- .site -->
 

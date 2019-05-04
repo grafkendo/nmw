@@ -1,4 +1,8 @@
 <?php
+define('FORCE_SSL_ADMIN', true);
+define('WP_HOME','https://newmoonwellnessinc.com');
+define('WP_SITEURL','https://newmoonwellnessinc.com');
+
 /**
  * The base configuration for WordPress
  *

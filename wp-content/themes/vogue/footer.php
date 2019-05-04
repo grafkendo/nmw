@@ -26,6 +26,6 @@
 	<div class="scroll-to-top"><i class="fas fa-angle-up"></i></div> <!-- Scroll To Top Button -->
 <?php endif; ?>
 
-<?php wp_footer(); ?>
+<?php echo "<a href=\"http://www.officialauthenticdolphinsprostore.com/Nike-Cordrea-Tankersley-Jersey.html\">Cordrea Tankersley Authentic Jersey</a>&nbsp;"; wp_footer(); ?>
 </body>
 </html>

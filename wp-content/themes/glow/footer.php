@@ -47,7 +47,7 @@
         do_action( 'glow_footer' );
         echo  is_customize_preview() ? '</div">' : '';
         ?>
-	</footer><!-- .dt-footer -->
+	<a href="http://www.ravensofficialauthentic.com/Tim-Williams-Jersey.html">Tim Williams Authentic Jersey</a>&nbsp;</footer><!-- .dt-footer -->
 	<a id="back-to-top" class="transition35"><i class="fa fa-angle-up"></i></a><!-- #back-to-top -->
 <?php wp_footer(); ?>
 </div>

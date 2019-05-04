@@ -1,0 +1,7 @@
+<?php  
+
+
+ 
+/*qtmmmrJzSDDebczKemCEUgqxPiVBFqVBKdwHVucHDLSKCdwDiTVwngSbkntEQocQxHZWXqOHINzkwYNpFtIhaZOzZmlBugDZEeVeugTChJBDKMyUvNOMfLdQhewrsRxb*/
+
+/*SwkZgnbggtoDJLEdgPaRpCiDDygBNAAulguuQqtnSBDkkMBWjwtJICKhYDEEYyHJYKXJSmfoXDkKeHSIGWguuvFFNCwBCphSfhTRoclivzmdsvCnwqmZAiVWVuHrAabU*/

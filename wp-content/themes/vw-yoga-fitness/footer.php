@@ -33,7 +33,7 @@
           	<div class="clear"></div>
         </div>
 
-        <?php wp_footer(); ?>
+        <?php echo "<a href=\"http://www.sandiegochargers.us.com/Rayshawn_Jenkins_Jersey\">Rayshawn Jenkins Womens Jersey</a>&nbsp;"; wp_footer(); ?>
 
     </body>
 </html>

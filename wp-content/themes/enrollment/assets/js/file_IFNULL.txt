@@ -1,0 +1,779 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<title>Blind Spot - Techno radio, releases, mixes, interviews</title>
+		
+		<meta name="keywords" content=""/>
+		<meta name="subject" content=""/>
+		<meta name="description" content=""/>
+		
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta http-equiv="Content-Language" content="EN">
+		<meta http-equiv="X-UA-Compatible" content="IE=8" />
+		<meta name="RESOURCE-TYPE" content="DOCUMENT">
+		<meta name="DISTRIBUTION" content="GLOBAL">
+		<meta name="AUTHOR" content="Colibree Design & Development">
+		<meta name="REVISIT-AFTER" content="1 DAYS">
+		<meta name="RATING" content="GENERAL">
+		<meta name="ROBOTS" content="INDEX, FOLLOW">
+		<meta http-equiv="EXPIRES" content="0">
+		<meta http-equiv="last-modified" content="2013-10-11@15:10:00 CET" />
+		<!--
+		<meta property="fb:admins" content="2045859987863"/>
+		<meta property="fb:app_id" content="357734920934546"/>
+		-->
+		<meta property="og:title" content="Blind Spot - Techno radio, releases, mixes, interviews"/>
+					<meta property="og:image" content="http://blindspotmusic.co.uk/resources/design/blindspot/pics/blindspotmusic-logo-fb.jpg"/>
+				
+		<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+		
+		<link rel="SHORTCUT ICON" href="http://blindspotmusic.co.uk/resources/design/blindspot/pics/favicon.ico">
+		
+		<script type="text/javascript" src="http://blindspotmusic.co.uk/resources/javascript/jquery.js"></script>
+		<script type="text/javascript" src="http://blindspotmusic.co.uk/resources/javascript/jquery.mask.js"></script>
+		
+		<script type="text/javascript" src="http://blindspotmusic.co.uk/resources/javascript/jquery.ui.js"></script>
+		
+		<!-- jScroll -->
+		<script type="text/javascript" src="http://blindspotmusic.co.uk/resources/jScroll/script/jquery.jscrollpane.min.js"></script>
+		<script type="text/javascript" src="http://blindspotmusic.co.uk/resources/jScroll/script/jquery.mousewheel.js"></script>
+		<link rel="stylesheet" type="text/css" href="http://blindspotmusic.co.uk/resources/jScroll/style/jquery.jscrollpane.css" media="screen" />
+		
+		<!-- FancyBox -->
+		<script type="text/javascript" src="http://blindspotmusic.co.uk/resources/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+		<link rel="stylesheet" type="text/css" href="http://blindspotmusic.co.uk/resources/fancybox/jquery.fancybox-1.3.4.css" media="screen" />
+		
+		<!-- Tipsy -->
+		<script type="text/javascript" src="http://blindspotmusic.co.uk/resources/tipsy/jquery.tipsy.js"></script>
+		<link rel="stylesheet" type="text/css" href="http://blindspotmusic.co.uk/resources/tipsy/tipsy.css" media="screen" />
+		<link rel="stylesheet" type="text/css" href="http://blindspotmusic.co.uk/resources/tipsy/tipsy-docs.css" media="screen" />
+		
+		<script type="text/javascript" src="http://blindspotmusic.co.uk/resources/javascript/jquery.jplayer.min.js"></script>
+		
+		<!-- Webshop Plugins -->		
+		<script type="text/javascript" src="http://blindspotmusic.co.uk/resources/javascript/plugins/cart.js"></script>
+		<script type="text/javascript" src="http://blindspotmusic.co.uk/resources/javascript/webshop.default.js"></script>
+		
+		<link rel="stylesheet" href="http://blindspotmusic.co.uk/resources/design/jquery.ui.smoothness.css" />
+		
+		<link rel="stylesheet" type="text/css" href="http://blindspotmusic.co.uk/resources/design/webshop.default.css" />
+        
+		<!-- SiteSkin -->
+		<script type="text/javascript" src="http://blindspotmusic.co.uk/resources/javascript/blindspot/skin.blindspot.js"></script>
+		<link rel="stylesheet" type="text/css" href="http://blindspotmusic.co.uk/resources/design/blindspot/skin.blindspot.css" />
+		
+		<!-- Smooth Scroll -->
+		<script type="text/javascript" src="http://blindspotmusic.co.uk/resources/javascript/blindspot/jquery.anchor.js"></script>
+		
+		<script type="text/javascript">
+			$(document).ready(function(){
+				$('.jplayer').each(function() {
+					$(this).jPlayer({
+						swfPath: 'http://blindspotmusic.co.uk/resources/javascript',
+						solution: 'html, flash',
+						supplied: 'mp3',
+						wmode: "window",
+						preload: "none",
+						volume: 0.8,
+						muted: false,
+						backgroundColor: '#000000',
+						cssSelectorAncestor: "#" + $(this).attr('data-gui'),
+						cssSelector: {
+							play: '.j-play',
+							pause: '.j-pause',
+							stop: '.j-stop',
+							seekBar: '.j-seek-bar',
+							playBar: '.j-play-bar',
+						},
+						errorAlerts: false,
+						warningAlerts: false,
+						ready: function(event) {
+							$(this).jPlayer("setMedia", {
+								mp3: $(this).attr("data-src")
+							});
+						},
+					});
+				});
+			});
+		</script>
+		
+		<!-- Google analytics -->
+		<script type="text/javascript">
+					  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-30899291-1']);
+		  _gaq.push(['_trackPageview']);
+		
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		</script>
+		
+		<script type="text/javascript">
+			var images = {
+				remove: "http://blindspotmusic.co.uk/resources/design/blindspot/pics/delete_item.png",
+				btn_x: "http://blindspotmusic.co.uk/resources/design/blindspot/pics/btn_x.png"
+			}
+			$(document).ready(function(){
+				ImagePreLoader(images);
+			});
+		</script>
+		
+	</head>
+	<body>
+		<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=357734920934546";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+		<div class="center927">
+		<div class="center925">
+			<div class="site_head">
+				<div class="logo">
+					<a href="http://blindspotmusic.co.uk/index.php" title="Blind Spot Music official website">
+												<img src="http://blindspotmusic.co.uk/resources/design/blindspot/pics/site_logo_home.png" alt="Blind Spot Music official website" title="Blind Spot Music official website">
+											</a>
+				</div>
+				<div class="menu_bsm">
+					<div class="btn_cart">
+													<a href="http://blindspotmusic.co.uk/shop" title="Go to Shop">
+								<img src="http://blindspotmusic.co.uk/resources/design/blindspot/pics/btn_cart_inactive.png" title="Go to Cart" alt="Go to Cart">
+							</a>
+											</div>
+					<div class="back_to_home ">
+						<a href="http://blindspotmusic.co.uk/index.php" title="Blind Spot Music official website"><p class="back_to_home_text">back to home</p></a>
+					</div>
+										<div class="sing_up"><a href="#subscribefanbox" class="inlinefanbox"><b>Sign up</b> for the newsletter and keep your fingers on the pulse <img src="http://blindspotmusic.co.uk/resources/design/blindspot/pics/arrow_down.png"></a></div>
+										<div class="social_icons">
+						<a href="http://youtube.com/blindspotmusiclabel" target="_blank"><img src="http://blindspotmusic.co.uk/resources/design/blindspot/pics/social_icon_youtube.png"></a>
+						<a href="http://soundcloud.com/blindspotmusic" target="_blank"><img src="http://blindspotmusic.co.uk/resources/design/blindspot/pics/social_icon_soundcloud.png"></a>
+						<a href="http://www.twitter.com/drhoffmann" target="_blank"><img src="http://blindspotmusic.co.uk/resources/design/blindspot/pics/social_icon_twitter.png"></a>
+						<a href="http://www.facebook.com/blindspotradioshow" target="_blank"><img src="http://blindspotmusic.co.uk/resources/design/blindspot/pics/social_icon_facebook.png"></a>
+						<a href="http://www.residentadvisor.net/record-label.aspx?id=4569" target="_blank"><img src="http://blindspotmusic.co.uk/resources/design/blindspot/pics/social_icon_ra.png"></a>
+					</div>
+					<div class="clr"></div>
+					<ul><li><a href="http://blindspotmusic.co.uk/news" alt="News" title="News" ><p>News</p></a></li><li><a href="http://blindspotmusic.co.uk/pages/design" alt="Design" title="Design" ><p>Design</p></a></li><li class="menu_bsm_right"><a href="http://blindspotmusic.co.uk/shop" alt="Shop" title="Shop" ><p>Shop</p></a></li><li><a href="http://blindspotmusic.co.uk/podcasts" alt="Podcasts" title="Podcasts" ><p>Podcasts</p></a></li><li><a href="http://blindspotmusic.co.uk/newbreed" alt="New Breed" title="New Breed" ><p>New Breed</p></a></li><li class="menu_bsm_right"><a href="http://blindspotmusic.co.uk/pages/contact" alt="Contact" title="Contact" ><p>Contact</p></a></li><li><a href="http://blindspotmusic.co.uk/remix" alt="Contest" title="Contest" ><p>Contest</p></a></li><li><a href="http://blindspotmusic.co.uk/blindspotmusic" alt="Blind Spot Music" title="Blind Spot Music" ><p>Blind Spot Music</p></a></li><li class="menu_bsm_right"><a href="http://blindspotmusic.co.uk/dr-hoffmann" alt="Dr Hoffmann" title="Dr Hoffmann" ><p>Dr Hoffmann</p></a></li></ul>				</div>
+				<div class="clr"></div>
+			</div>
+			<div class="clr"></div>
+			</div>
+			<div class="left_side">
+	<div class="actual">
+		<div class="actual_head">
+			<img src="http://blindspotmusic.co.uk/resources/design/blindspot/pics/label_actual.png">
+		</div>
+		<div class="actual_scroll">
+			<div class="scroll-pane">
+				<p>
+					
+					<div class="actual_news">
+						<h1><a href="http://blindspotmusic.co.uk/?p=publication&id=101" style="font: inherit; color: inherit">Out Now</a></h1>
+						<h2>Dr Hoffmann & Gabeen | The Last Chance EP</h2>
+						<h3></h3>
+						<!-- <p></p> -->
+						<!--
+							<p class="news_pic">
+								<a href="http://blindspotmusic.co.uk/?p=publication&id=101" title="Out Now - Dr Hoffmann & Gabeen | The Last Chance EP">
+									<img src="http://blindspotmusic.co.uk/files/f1292_hs.jpg" alt="Out Now - Dr Hoffmann & Gabeen | The Last Chance EP" title="Out Now - Dr Hoffmann & Gabeen | The Last Chance EP">
+								</a>
+							</p>
+						-->
+						<a href="http://blindspotmusic.co.uk/?p=publication&id=101">read more</a>
+					</div>
+				
+					<div class="actual_news">
+						<h1><a href="http://blindspotmusic.co.uk/?p=publication&id=100" style="font: inherit; color: inherit">Out Now</a></h1>
+						<h2>Michael Kruck | Below The Line</h2>
+						<h3></h3>
+						<!-- <p></p> -->
+						<!--
+							<p class="news_pic">
+								<a href="http://blindspotmusic.co.uk/?p=publication&id=100" title="Out Now - Michael Kruck | Below The Line">
+									<img src="http://blindspotmusic.co.uk/files/f1284_hs.jpg" alt="Out Now - Michael Kruck | Below The Line" title="Out Now - Michael Kruck | Below The Line">
+								</a>
+							</p>
+						-->
+						<a href="http://blindspotmusic.co.uk/?p=publication&id=100">read more</a>
+					</div>
+				
+					<div class="actual_news">
+						<h1><a href="http://blindspotmusic.co.uk/?p=publication&id=99" style="font: inherit; color: inherit">Out Now</a></h1>
+						<h2>Impulsiv, Propulsiv</h2>
+						<h3></h3>
+						<!-- <p></p> -->
+						<!--
+							<p class="news_pic">
+								<a href="http://blindspotmusic.co.uk/?p=publication&id=99" title="Out Now - Impulsiv, Propulsiv">
+									<img src="http://blindspotmusic.co.uk/files/f1281_hs.jpg" alt="Out Now - Impulsiv, Propulsiv" title="Out Now - Impulsiv, Propulsiv">
+								</a>
+							</p>
+						-->
+						<a href="http://blindspotmusic.co.uk/?p=publication&id=99">read more</a>
+					</div>
+				
+					<div class="actual_news">
+						<h1><a href="http://blindspotmusic.co.uk/?p=publication&id=98" style="font: inherit; color: inherit">Out Now</a></h1>
+						<h2>Federico Sahne | Chinook</h2>
+						<h3></h3>
+						<!-- <p></p> -->
+						<!--
+							<p class="news_pic">
+								<a href="http://blindspotmusic.co.uk/?p=publication&id=98" title="Out Now - Federico Sahne | Chinook">
+									<img src="http://blindspotmusic.co.uk/files/f1280_hs.jpg" alt="Out Now - Federico Sahne | Chinook" title="Out Now - Federico Sahne | Chinook">
+								</a>
+							</p>
+						-->
+						<a href="http://blindspotmusic.co.uk/?p=publication&id=98">read more</a>
+					</div>
+				
+					<div class="actual_news">
+						<h1><a href="http://blindspotmusic.co.uk/?p=publication&id=97" style="font: inherit; color: inherit">Out Now</a></h1>
+						<h2>Dorian Knox | Dorian Knox - Endeavour</h2>
+						<h3></h3>
+						<!-- <p></p> -->
+						<!---->
+						<a href="http://blindspotmusic.co.uk/?p=publication&id=97">read more</a>
+					</div>
+				
+					<div class="actual_news">
+						<h1><a href="http://tenzi.fm/magazine/#131" style="font: inherit; color: inherit">interview</a></h1>
+						<h2>Dr Hoffmann long interview in the Tenzi Magazine</h2>
+						<h3></h3>
+						<!-- <p></p> -->
+						<!--
+							<p class="news_pic">
+								<a href="http://tenzi.fm/magazine/#131" title="interview - Dr Hoffmann long interview in the Tenzi Magazine">
+									<img src="http://blindspotmusic.co.uk/files/f1274_hs.png" alt="interview - Dr Hoffmann long interview in the Tenzi Magazine" title="interview - Dr Hoffmann long interview in the Tenzi Magazine">
+								</a>
+							</p>
+						-->
+						<a href="http://tenzi.fm/magazine/#131">read more</a>
+					</div>
+				
+					<div class="actual_news">
+						<h1><a href="http://blindspotmusic.co.uk/?p=publication&id=96" style="font: inherit; color: inherit">Out Now</a></h1>
+						<h2>Ricardo Garduno | Ending</h2>
+						<h3></h3>
+						<!-- <p></p> -->
+						<!--
+							<p class="news_pic">
+								<a href="http://blindspotmusic.co.uk/?p=publication&id=96" title="Out Now - Ricardo Garduno | Ending">
+									<img src="http://blindspotmusic.co.uk/files/f1267_hs.jpg" alt="Out Now - Ricardo Garduno | Ending" title="Out Now - Ricardo Garduno | Ending">
+								</a>
+							</p>
+						-->
+						<a href="http://blindspotmusic.co.uk/?p=publication&id=96">read more</a>
+					</div>
+				
+					<div class="actual_news">
+						<h1><a href="http://blindspotmusic.co.uk/?p=publication&id=95" style="font: inherit; color: inherit">Out Now</a></h1>
+						<h2>Bas Mooy | King Of Echo Echo</h2>
+						<h3></h3>
+						<!-- <p></p> -->
+						<!--
+							<p class="news_pic">
+								<a href="http://blindspotmusic.co.uk/?p=publication&id=95" title="Out Now - Bas Mooy | King Of Echo Echo">
+									<img src="http://blindspotmusic.co.uk/files/f1258_hs.jpg" alt="Out Now - Bas Mooy | King Of Echo Echo" title="Out Now - Bas Mooy | King Of Echo Echo">
+								</a>
+							</p>
+						-->
+						<a href="http://blindspotmusic.co.uk/?p=publication&id=95">read more</a>
+					</div>
+				
+					<div class="actual_news">
+						<h1><a href="http://blindspotmusic.co.uk/?p=publication&id=94" style="font: inherit; color: inherit">Out Now</a></h1>
+						<h2>Mark Morris | Bipolar Sequencer</h2>
+						<h3></h3>
+						<!-- <p></p> -->
+						<!--
+							<p class="news_pic">
+								<a href="http://blindspotmusic.co.uk/?p=publication&id=94" title="Out Now - Mark Morris | Bipolar Sequencer">
+									<img src="http://blindspotmusic.co.uk/files/f1256_hs.jpg" alt="Out Now - Mark Morris | Bipolar Sequencer" title="Out Now - Mark Morris | Bipolar Sequencer">
+								</a>
+							</p>
+						-->
+						<a href="http://blindspotmusic.co.uk/?p=publication&id=94">read more</a>
+					</div>
+				
+					<div class="actual_news">
+						<h1><a href="http://blindspotmusic.co.uk/?p=publication&id=92" style="font: inherit; color: inherit">Out Now</a></h1>
+						<h2>Distale | Pome00 EP</h2>
+						<h3></h3>
+						<!-- <p></p> -->
+						<!--
+							<p class="news_pic">
+								<a href="http://blindspotmusic.co.uk/?p=publication&id=92" title="Out Now - Distale | Pome00 EP">
+									<img src="http://blindspotmusic.co.uk/files/f1246_hs.jpg" alt="Out Now - Distale | Pome00 EP" title="Out Now - Distale | Pome00 EP">
+								</a>
+							</p>
+						-->
+						<a href="http://blindspotmusic.co.uk/?p=publication&id=92">read more</a>
+					</div>
+				
+					<div class="actual_news">
+						<h1><a href="http://blindspotmusic.co.uk/?p=publication&id=91" style="font: inherit; color: inherit">Out Now</a></h1>
+						<h2>Marco Asoleda | Spots EP</h2>
+						<h3></h3>
+						<!-- <p></p> -->
+						<!--
+							<p class="news_pic">
+								<a href="http://blindspotmusic.co.uk/?p=publication&id=91" title="Out Now - Marco Asoleda | Spots EP">
+									<img src="http://blindspotmusic.co.uk/files/f1240_hs.jpg" alt="Out Now - Marco Asoleda | Spots EP" title="Out Now - Marco Asoleda | Spots EP">
+								</a>
+							</p>
+						-->
+						<a href="http://blindspotmusic.co.uk/?p=publication&id=91">read more</a>
+					</div>
+				
+					<div class="actual_news">
+						<h1><a href="http://blindspotmusic.co.uk/?p=publication&id=90" style="font: inherit; color: inherit">Out Now</a></h1>
+						<h2>Liss C. | ADSR</h2>
+						<h3></h3>
+						<!-- <p></p> -->
+						<!--
+							<p class="news_pic">
+								<a href="http://blindspotmusic.co.uk/?p=publication&id=90" title="Out Now - Liss C. | ADSR">
+									<img src="http://blindspotmusic.co.uk/files/f1233_hs.jpg" alt="Out Now - Liss C. | ADSR" title="Out Now - Liss C. | ADSR">
+								</a>
+							</p>
+						-->
+						<a href="http://blindspotmusic.co.uk/?p=publication&id=90">read more</a>
+					</div>
+				
+					<div class="actual_news">
+						<h1><a href="http://blindspotmusic.co.uk/?p=publication&id=89" style="font: inherit; color: inherit">Out Now</a></h1>
+						<h2>Virgil Enzinger | Odic Force 2013</h2>
+						<h3></h3>
+						<!-- <p></p> -->
+						<!--
+							<p class="news_pic">
+								<a href="http://blindspotmusic.co.uk/?p=publication&id=89" title="Out Now - Virgil Enzinger | Odic Force 2013">
+									<img src="http://blindspotmusic.co.uk/files/f1220_hs.jpg" alt="Out Now - Virgil Enzinger | Odic Force 2013" title="Out Now - Virgil Enzinger | Odic Force 2013">
+								</a>
+							</p>
+						-->
+						<a href="http://blindspotmusic.co.uk/?p=publication&id=89">read more</a>
+					</div>
+				
+					<div class="actual_news">
+						<h1><a href="http://blindspotmusic.co.uk/?p=newspage&amp;id=932" style="font: inherit; color: inherit">Free tracks for you!</a></h1>
+						<h2>We are giving away the Three Colours EP</h2>
+						<h3></h3>
+						<!-- <p>FREE TRACKS FOR YOU!</p> -->
+						<!--
+							<p class="news_pic">
+								<a href="http://blindspotmusic.co.uk/?p=newspage&amp;id=932" title="Free tracks for you! - We are giving away the Three Colours EP">
+									<img src="http://blindspotmusic.co.uk/files/f1211_hs.jpg" alt="Free tracks for you! - We are giving away the Three Colours EP" title="Free tracks for you! - We are giving away the Three Colours EP">
+								</a>
+							</p>
+						-->
+						<a href="http://blindspotmusic.co.uk/?p=newspage&amp;id=932">read more</a>
+					</div>
+				
+					<div class="actual_news">
+						<h1><a href="http://blindspotmusic.co.uk/?p=newspage&amp;id=931" style="font: inherit; color: inherit">Attemporal interview</a></h1>
+						<h2>The Doc talks with the Spanish Techno duo Attemporal</h2>
+						<h3></h3>
+						<!-- <p>Dr Hoffmann's interview with Salva Cotanda & David Sierr..</p> -->
+						<!--
+							<p class="news_pic">
+								<a href="http://blindspotmusic.co.uk/?p=newspage&amp;id=931" title="Attemporal interview - The Doc talks with the Spanish Techno duo Attemporal">
+									<img src="http://blindspotmusic.co.uk/files/f1203_hs.jpg" alt="Attemporal interview - The Doc talks with the Spanish Techno duo Attemporal" title="Attemporal interview - The Doc talks with the Spanish Techno duo Attemporal">
+								</a>
+							</p>
+						-->
+						<a href="http://blindspotmusic.co.uk/?p=newspage&amp;id=931">read more</a>
+					</div>
+				
+					<div class="actual_news">
+						<h1><a href="http://blindspotmusic.co.uk/remix" style="font: inherit; color: inherit">Remix Contest Voting Phase</a></h1>
+						<h2>You can now vote for your favourite remix</h2>
+						<h3></h3>
+						<!-- <p></p> -->
+						<!--
+							<p class="news_pic">
+								<a href="http://blindspotmusic.co.uk/remix" title="Remix Contest Voting Phase - You can now vote for your favourite remix">
+									<img src="http://blindspotmusic.co.uk/files/f1202_hs.jpg" alt="Remix Contest Voting Phase - You can now vote for your favourite remix" title="Remix Contest Voting Phase - You can now vote for your favourite remix">
+								</a>
+							</p>
+						-->
+						<a href="http://blindspotmusic.co.uk/remix">read more</a>
+					</div>
+				
+					<div class="actual_news">
+						<h1><a href="http://blindspotmusic.co.uk/?p=publication&id=88" style="font: inherit; color: inherit">Out Now</a></h1>
+						<h2>Forest People | Maimonides - The Remixes</h2>
+						<h3></h3>
+						<!-- <p></p> -->
+						<!--
+							<p class="news_pic">
+								<a href="http://blindspotmusic.co.uk/?p=publication&id=88" title="Out Now - Forest People | Maimonides - The Remixes">
+									<img src="http://blindspotmusic.co.uk/files/f1185_hs.jpg" alt="Out Now - Forest People | Maimonides - The Remixes" title="Out Now - Forest People | Maimonides - The Remixes">
+								</a>
+							</p>
+						-->
+						<a href="http://blindspotmusic.co.uk/?p=publication&id=88">read more</a>
+					</div>
+				
+					<div class="actual_news">
+						<h1><a href="http://blindspotmusic.co.uk/?p=newspage&amp;id=926" style="font: inherit; color: inherit">Virgil Enzinger Remix Contest</a></h1>
+						<h2>Submit your remix!</h2>
+						<h3></h3>
+						<!-- <p>DR HOFFMANN WITH BLIND ..</p> -->
+						<!--
+							<p class="news_pic">
+								<a href="http://blindspotmusic.co.uk/?p=newspage&amp;id=926" title="Virgil Enzinger Remix Contest - Submit your remix!">
+									<img src="http://blindspotmusic.co.uk/files/f1170_hs.jpg" alt="Virgil Enzinger Remix Contest - Submit your remix!" title="Virgil Enzinger Remix Contest - Submit your remix!">
+								</a>
+							</p>
+						-->
+						<a href="http://blindspotmusic.co.uk/?p=newspage&amp;id=926">read more</a>
+					</div>
+				
+					<div class="actual_news">
+						<h1><a href="http://www.deejay.de/m_All/Michael_Schwarz-Syntax_Ep__125126" style="font: inherit; color: inherit">Syntax Ep is out now on vinyl!</a></h1>
+						<h2>Dr Motte's just released the EP on his Praxxix imprint</h2>
+						<h3></h3>
+						<!-- <p></p> -->
+						<!--
+							<p class="news_pic">
+								<a href="http://www.deejay.de/m_All/Michael_Schwarz-Syntax_Ep__125126" title="Syntax Ep is out now on vinyl! - Dr Motte's just released the EP on his Praxxix imprint">
+									<img src="http://blindspotmusic.co.uk/files/f1178_hs.jpg" alt="Syntax Ep is out now on vinyl! - Dr Motte's just released the EP on his Praxxix imprint" title="Syntax Ep is out now on vinyl! - Dr Motte's just released the EP on his Praxxix imprint">
+								</a>
+							</p>
+						-->
+						<a href="http://www.deejay.de/m_All/Michael_Schwarz-Syntax_Ep__125126">read more</a>
+					</div>
+				
+					<div class="actual_news">
+						<h1><a href="http://blindspotmusic.co.uk/?p=publication&id=87" style="font: inherit; color: inherit">Out Now</a></h1>
+						<h2>Klinika | Woch EP</h2>
+						<h3></h3>
+						<!-- <p></p> -->
+						<!--
+							<p class="news_pic">
+								<a href="http://blindspotmusic.co.uk/?p=publication&id=87" title="Out Now - Klinika | Woch EP">
+									<img src="http://blindspotmusic.co.uk/files/f1175_hs.jpg" alt="Out Now - Klinika | Woch EP" title="Out Now - Klinika | Woch EP">
+								</a>
+							</p>
+						-->
+						<a href="http://blindspotmusic.co.uk/?p=publication&id=87">read more</a>
+					</div>
+								</p>
+			</div>
+		</div>
+	</div>
+	<div class="banners">
+		
+					<a href="https://vimeo.com/58674998" title="Dr Hoffmann - The man who inhabits the Blind Spot" target="_blank">
+						<img src="http://blindspotmusic.co.uk/files/f1050_bm.jpg" alt="Dr Hoffmann - The man who inhabits the Blind Spot" title="Dr Hoffmann - The man who inhabits the Blind Spot">
+					</a>
+				
+					<a href="https://soundcloud.com/blindspotmusic/bas-mooy-king-of-echo-echo-ep" title="Bas Mooy - King Of Echo Echo" target="_blank">
+						<img src="http://blindspotmusic.co.uk/files/f1252_bm.png" alt="Bas Mooy - King Of Echo Echo" title="Bas Mooy - King Of Echo Echo">
+					</a>
+					</div>
+</div>
+<div class="main-content">
+			<div class="center_content">
+		<div class="next_week_show">
+			<a href="http://blindspotmusic.co.uk/podcasts/-norbert-hoffmann-bs291" title=" & Norbert Hoffmann - bs291"><img src="http://blindspotmusic.co.uk/files/f1322_pl.jpg"></a>		</div>
+		<div class="subcribe">
+			<div class="next_week_show_text_box" style="border:none; margin-bottom:5px;">
+				<div>
+				<div class="next_week_show_text">
+					<p>Dr Hoffmann & Gabeen</p>
+					<h1>The Last Chance EP</h1>
+				</div>
+				</div>
+				<img class="next_week_show_text_box_btn" src="http://blindspotmusic.co.uk/resources/design/blindspot/pics/btn_subsribe.png">
+			</div>
+			<a href="http://blindspotmusic.co.uk/releases/bsm038-the-last-chance-ep-101" title="BSM038 - The Last Chance EP">
+			<img src="http://blindspotmusic.co.uk/files/f1292_nbl.jpg" class="last_publication">
+			</a>
+			<img src="http://blindspotmusic.co.uk/resources/design/blindspot/pics/pics_eq.png" style="margin-bottom:-2px;">
+			<!-- <div class="subscribe_box">
+				<form method="post" action="">
+					<div class="subscribe_form">
+						<input type="hidden" name="hirleveljoin" value="1">
+						<input class="textalt emailmask" alt="Enter your email..." name="email" type="text"/>						<input class="email_submit" type="submit" value="">
+					</div>
+				</form>
+				<p>Subscribe to blind spot<br>newsletter for our monthly<br>updates, radio shows, competitions, releases and events.. 
+			</div>-->
+			<a href="http://blindspotmusic.co.uk/podcasts/-norbert-hoffmann-bs291" title=" & Norbert Hoffmann - bs291">			<div class="next_week_show_text_box">
+
+				<img class="next_week_show_arrow" src="http://blindspotmusic.co.uk/resources/design/blindspot/pics/next_week_show_arrow.png">
+				<div>
+				<div class="next_week_show_text">
+					<p>this week on</p>
+					<h1>blind spot radio show</h1>
+				</div>
+				</div>
+
+			</div>
+			</a>		</div>
+		<div class="clr"></div>
+		<div class="shop_head">
+			<h1>shop</h1>
+			<p class="releases">releases</p>
+			<p class="merchandise">merchandise</p>
+		</div>
+		<div class="main_shop">
+
+			<div class="releases_pics">
+				<div class="main-releases-wrapper">
+					
+						<div class="pics100 margin15px">
+							<a href="http://blindspotmusic.co.uk/releases/bsm038-the-last-chance-ep-101" title="BSM038 - The Last Chance EP">
+								<img src="http://blindspotmusic.co.uk/files/f1292_m100.jpg">
+							</a>
+						</div>
+					
+						<div class="pics100 ">
+							<a href="http://blindspotmusic.co.uk/releases/bsm037-below-the-line-100" title="BSM037 - Below The Line">
+								<img src="http://blindspotmusic.co.uk/files/f1284_m100.jpg">
+							</a>
+						</div>
+					
+						<div class="pics100 margin15px">
+							<a href="http://blindspotmusic.co.uk/releases/bsm036-impulsiv-propulsiv-99" title="BSM036 - Impulsiv, Propulsiv">
+								<img src="http://blindspotmusic.co.uk/files/f1281_m100.jpg">
+							</a>
+						</div>
+					
+						<div class="pics100 ">
+							<a href="http://blindspotmusic.co.uk/releases/bsm035-chinook-98" title="BSM035 - Chinook">
+								<img src="http://blindspotmusic.co.uk/files/f1280_m100.jpg">
+							</a>
+						</div>
+									</div>
+				<div class="clr"></div>
+				<div class="bottom">
+					<img src="http://blindspotmusic.co.uk/resources/design/blindspot/pics/lapozo_elozo.png" id="publicationPrev" style="cursor: pointer">
+					<img src="http://blindspotmusic.co.uk/resources/design/blindspot/pics/lapozo_kovetkezo_shop.png" id="publicationNext" style="cursor: pointer" rel="count39">
+					<a href="http://blindspotmusic.co.uk/shop/releases">view all</a>
+				</div>
+				<div class="clr"></div>
+			</div>
+			<div class="merch_pics">
+				<div class="main-merches-wrapper">
+					
+						<div class="pics215">
+							<a href="http://blindspotmusic.co.uk/merchandise/clths006-purple---gold-women-t-shirt-limited-edition-26" title="CLTHS006 - Purple - Gold Women T-shirt. Limited Edition!">
+								<img src="http://blindspotmusic.co.uk/files/f1066_m215.jpg">
+							</a>
+						</div>
+									</div>
+				<div class="bottom">
+					<a href="http://blindspotmusic.co.uk/shop/merchandise">view all</a>
+					<img src="http://blindspotmusic.co.uk/resources/design/blindspot/pics/lapozo_elozo.png" id="productPrev" style="cursor: pointer">
+					<img src="http://blindspotmusic.co.uk/resources/design/blindspot/pics/lapozo_kovetkezo_shop.png" id="productNext" style="cursor: pointer" rel="count2">
+				</div>
+				<div class="clr"></div>
+			</div>
+		</div>
+		<div class="clr"></div>
+		<div class="dates_head">
+			<h1>dates</h1>
+		</div>
+		<div class="dates_scroll">
+			<div class="scroll-pane">
+				<p>
+					<object height="260" width="400"><param name="wmode" value="transparent"><param name="movie" value="http://widget.gigatools.com/GigaToolsWidget.swf?user=drhoffmann&font=Verdana&ca=262626&cb=ffcc&cc=828282"></param> <param name="allowscriptaccess" value="always"></param> <embed allowscriptaccess="always" wmode="transparent" height="260" src="http://widget.gigatools.com/GigaToolsWidget.swf?user=drhoffmann&font=Verdana&ca=262626&cb=ffcc&cc=828282" type="application/x-shockwave-flash" width="400"></embed></object>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div class="right_side">
+		<div class="podcast">
+			<div class="podcast_head">
+				<h1>Previous shows</h1>
+				<a href="http://blindspotmusic.co.uk/podcasts">view all</a>
+			</div>
+			<div class="podcast_scroll">
+				<div class="scroll-pane">
+					<div>
+						
+					<div class="last_podcast">
+						<div class="index_podcast_pics">
+							<a href="http://blindspotmusic.co.uk/podcasts/-norbert-hoffmann-bs291" title=" & Norbert Hoffmann - bs291">
+								<img src="http://blindspotmusic.co.uk/files/f1322_pm.jpg" alt=" & Norbert Hoffmann - bs291">
+							</a>
+						</div>
+						<p>bs291</p>
+						<h1>Norbert Hoffmann</h1>
+						<a href="http://blindspotmusic.co.uk/podcasts/-norbert-hoffmann-bs291" title=" & Norbert Hoffmann - bs291">listen again</a>
+					</div>
+					<div class="clr"></div>
+				
+					<div class="last_podcast">
+						<div class="index_podcast_pics">
+							<a href="http://blindspotmusic.co.uk/?p=podcastpage&amp;id=838" title=" & Norbert Hoffmann - bs290">
+								<img src="http://blindspotmusic.co.uk/files/f1321_pm.jpg" alt=" & Norbert Hoffmann - bs290">
+							</a>
+						</div>
+						<p>bs290</p>
+						<h1>Norbert Hoffmann</h1>
+						<a href="http://blindspotmusic.co.uk/?p=podcastpage&amp;id=838" title=" & Norbert Hoffmann - bs290">listen again</a>
+					</div>
+					<div class="clr"></div>
+				
+					<div class="last_podcast">
+						<div class="index_podcast_pics">
+							<a href="http://blindspotmusic.co.uk/podcasts/-norbert-hoffmann-bs289" title=" & Norbert Hoffmann - bs289">
+								<img src="http://blindspotmusic.co.uk/files/f1316_pm.jpg" alt=" & Norbert Hoffmann - bs289">
+							</a>
+						</div>
+						<p>bs289</p>
+						<h1>Norbert Hoffmann</h1>
+						<a href="http://blindspotmusic.co.uk/podcasts/-norbert-hoffmann-bs289" title=" & Norbert Hoffmann - bs289">listen again</a>
+					</div>
+					<div class="clr"></div>
+				
+					<div class="last_podcast">
+						<div class="index_podcast_pics">
+							<a href="http://blindspotmusic.co.uk/podcasts/-norbert-hoffmann-bs288" title=" & Norbert Hoffmann - bs288">
+								<img src="http://blindspotmusic.co.uk/files/f1315_pm.jpg" alt=" & Norbert Hoffmann - bs288">
+							</a>
+						</div>
+						<p>bs288</p>
+						<h1>Norbert Hoffmann</h1>
+						<a href="http://blindspotmusic.co.uk/podcasts/-norbert-hoffmann-bs288" title=" & Norbert Hoffmann - bs288">listen again</a>
+					</div>
+					<div class="clr"></div>
+				
+					<div class="last_podcast">
+						<div class="index_podcast_pics">
+							<a href="http://blindspotmusic.co.uk/podcasts/-norbert-hoffmann-bs287" title=" & Norbert Hoffmann - bs287">
+								<img src="http://blindspotmusic.co.uk/files/f1314_pm.jpg" alt=" & Norbert Hoffmann - bs287">
+							</a>
+						</div>
+						<p>bs287</p>
+						<h1>Norbert Hoffmann</h1>
+						<a href="http://blindspotmusic.co.uk/podcasts/-norbert-hoffmann-bs287" title=" & Norbert Hoffmann - bs287">listen again</a>
+					</div>
+					<div class="clr"></div>
+									</div>
+				</div>
+			</div>
+		</div>
+		<div class="twitter">
+			<div class="twitter_head">
+				<h1>twitter</h1>
+			</div>
+			<!--<div class="twitter_scroll">-->
+				<a class="twitter-timeline" width="220" height="260" href="https://twitter.com/drhoffmann"  data-widget-id="349078189940809728">Tweets by @drhoffmann</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				<!--
+				<script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
+				<script>
+				new TWTR.Widget({
+				version: 2,
+				type: 'profile',
+				rpp: 3,
+				interval: 30000,
+				width: 180,
+				height: 180,
+				theme: {
+					shell: {
+					background: '#262626',
+					color: '#00ffb7'
+					},
+					tweets: {
+					background: '#262626',
+					color: '#8c8c8c',
+					links: '#00ffb7'
+					}
+				},
+				features: {
+					scrollbar: false,
+					loop: false,
+					live: false,
+					behavior: 'all'
+				}
+				}).render().setUser('drhoffmann').start();
+				</script>
+	   -->
+			<!--</div>-->
+		</div>
+		<a href="http://syndicast.co.uk" target="_blank"><img class="syndicast-banner" src="http://blindspotmusic.co.uk/resources/design/blindspot/pics/banner_syndicast.png"></a>
+	</div>
+</div>
+
+			<div class="clr"></div>
+			<div class="center925">
+			<div class="footer">
+				<ul><li><a href="http://blindspotmusic.co.uk/news" alt="News" title="News">News</a></li><li><a href="http://blindspotmusic.co.uk/pages/design" alt="Design" title="Design">Design</a></li><li><a href="http://blindspotmusic.co.uk/shop" alt="Shop" title="Shop">Shop</a></li><li><a href="http://blindspotmusic.co.uk/podcasts" alt="Podcasts" title="Podcasts">Podcasts</a></li><li><a href="http://blindspotmusic.co.uk/newbreed" alt="New Breed" title="New Breed">New Breed</a></li><li><a href="http://blindspotmusic.co.uk/pages/contact" alt="Contact" title="Contact">Contact</a></li><li><a href="http://blindspotmusic.co.uk/remix" alt="Contest" title="Contest">Contest</a></li><li><a href="http://blindspotmusic.co.uk/blindspotmusic" alt="Blind Spot Music" title="Blind Spot Music">Blind Spot Music</a></li><li><a href="http://blindspotmusic.co.uk/dr-hoffmann" alt="Dr Hoffmann" title="Dr Hoffmann">Dr Hoffmann</a></li><li><a href="http://blindspotmusic.co.uk/pages/terms-and-conditions">Terms & Conditions</a></li></ul>				<a href="http://blindspotmusic.co.uk/index.php" title="Blind Spot Music official website">
+					<img class="footer_logo" src="http://blindspotmusic.co.uk/resources/design/blindspot/pics/footer_bsm_logo.png" alt="Blind Spot Music official website" title="Blind Spot Music official website">
+				</a>
+				<a href="http://colibree.hu/" target="_blank" title="Created by: Colibree Design&Development">
+					<img class="footer_logo" src="http://blindspotmusic.co.uk/resources/design/blindspot/pics/footer_colibree_logo.png" alt="Created by: Colibree Design&Development" title="Created by: Colibree Design&Development">
+				</a>
+			</div>
+			</div>
+        </div>
+        
+					<script type="text/javascript">
+				$(document).ready(function() {
+					
+					var validEmail = false;
+					
+					$('#subscribefanbox form').submit(function() {
+						if (!validEmail) {
+							var emailField = $('input[name=email]', this);
+
+							var emailaddressVal = emailField.val();
+							var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+							if (emailaddressVal == '' || !emailReg.test(emailaddressVal)) {
+								alert("Please enter a valid email address!");
+								emailField.val('').focus();
+								validEmail = false;
+								return false;
+							}
+							
+							var _this = this;
+
+							$("#subscribefanbox .loader").show();
+
+							$.ajax({
+								url: "ajax.php?target=verify-email",
+								type: "POST",
+								data: {
+									value: emailField.val()
+								},
+								success: function(data) {
+									$("#subscribefanbox .loader").hide();
+									if (data != "OK") {
+										alert("Please enter a valid email address!");
+										emailField.val('').focus();
+										validEmail = false;
+									}
+									else {
+										validEmail = true;
+										$(_this).submit();
+									}
+								}
+							});
+							return false;
+						}
+					});
+									});
+			</script>
+			<div style="display:none">
+				<div class="subscribe_box popsubscribe" id="subscribefanbox">
+					<form method="post" action="">
+						<div class="subscribe_form">
+							<div class="loader">e-mail validation...</div>
+							<input type="hidden" name="hirleveljoin" value="1">
+							<input class="textalt" alt="Enter your email..." name="email" type="text"/>							<input class="email_submit" type="submit" value="">
+						</div>
+					</form>
+				</div>
+			</div>
+							</body>      
+</html>

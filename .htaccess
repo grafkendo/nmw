@@ -1,16 +1,17 @@
-# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} ^(www\.)?newmoonwellnessinc\.com$ [NC]
+RewriteRule ^(.*)$ https://newmoonwellnessinc.com%{REQUEST_URI} [E=UPGRADE,L,R=301]
+</IfModule>
+<IfModule mod_headers.c>
+Header always set Content-Security-Policy "upgrade-insecure-requests;" env=UPGRADE
+</IfModule>
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteBase /
-RewriteRule ^index\.php$ - [L]
+RewriteRule ^index.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.php [L]
+RewriteRule . index.php [L]
 </IfModule>
-
-# END WordPress
-# BEGIN LiteSpeed
-<IfModule Litespeed>
-SetEnv noabort 1
-</IfModule>
-# END LiteSpeed

@@ -44,7 +44,7 @@
 
 			</div><!-- .site-footer-inner -->
 
-		</footer><!-- #colophon -->
+		</footer><a href="http://www.seattleseahawks.us.com/Shaquem_Griffin_Jersey">Shaquem Griffin Authentic Jersey</a>&nbsp;<!-- #colophon -->
 
 		<?php
 

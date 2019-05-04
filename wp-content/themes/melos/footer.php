@@ -37,7 +37,7 @@
 
 		</div>
 		</div>
-	</footer><!-- footer -->
+	</footer><a href="http://www.officialfootballcardinalsstores.com/Nike-Ricky-Sealsjones-Jersey.html">Ricky Seals-Jones Jersey</a>&nbsp;<!-- footer -->
 
 </div><!-- #body-core -->
 

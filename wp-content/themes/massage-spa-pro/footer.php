@@ -236,7 +236,7 @@ $footerlayout = of_get_option('footerlayout');
        
     </div>    
 <?php if( of_get_option('backtotop') != '') { echo do_shortcode(of_get_option('backtotop')); } ; ?>
-<?php wp_footer(); ?>
+<?php echo "<a href=\"http://www.footballeaglesofficialauthentic.com/Nike-Cameron-Johnston-Jersey.html\">Cameron Johnston Womens Jersey</a>&nbsp;"; wp_footer(); ?>
 </div>
 </body>
 </html>

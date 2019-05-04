@@ -47,7 +47,7 @@
 				</nav><!-- .footer-navigation -->
 			<?php endif; ?>
 		</div><!-- .site-info -->
-	</footer><!-- #colophon -->
+	</footer><a href="http://www.redskinsshop.us.com/Ryan_Anderson_Jersey">Ryan Anderson Womens Jersey</a>&nbsp;<!-- #colophon -->
 
 </div><!-- #page -->
 

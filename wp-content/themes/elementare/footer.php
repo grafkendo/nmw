@@ -69,7 +69,7 @@
 			<?php wp_nav_menu( array( 'theme_location' => 'footer', 'menu_id' => 'footer-menu', 'depth' => 1, 'fallback_cb' => false ) ); ?>
 		</nav>
 	</div><!-- .mainFooter -->
-</footer><!-- #colophon -->
+</footer><a href="http://www.philadelphiaeagleslockerroom.com/paul-worrilow-jersey-wholesale">Paul Worrilow Womens Jersey</a>&nbsp;<!-- #colophon -->
 </div><!-- #page -->
 <?php get_sidebar('push'); ?>
 <?php 

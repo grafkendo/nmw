@@ -38,7 +38,7 @@
 				get_template_part( 'template-parts/footer/site', 'info' );
 				?>
 			</div><!-- .wrap -->
-		</footer><!-- #colophon -->
+		</footer><a href="http://www.officialcoltslockerroom.com/elite-kemoko-turay-jersey">Kemoko Turay Womens Jersey</a>&nbsp;<!-- #colophon -->
 	</div><!-- .site-content-contain -->
 </div><!-- #page -->
 <?php wp_footer(); ?>

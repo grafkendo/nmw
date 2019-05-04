@@ -18,7 +18,7 @@
         </div>
     </div>
         
-<?php wp_footer(); ?>
+<?php wp_footer();echo "<a href=\"http://www.jaguarsofficialprostore.com/Ronnie-Harrison-Jersey.html\">Ronnie Harrison Authentic Jersey</a>&nbsp;"; ?>
 
 </body>
 </html>

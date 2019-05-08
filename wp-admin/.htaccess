@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "wp-grafsec"
+AuthUserFile "/home/l7zcdslk1ejs/.htpasswds/public_html/wp-admin/passwd"
+require valid-user

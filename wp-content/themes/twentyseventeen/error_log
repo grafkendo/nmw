@@ -1,0 +1,29 @@
+[09-May-2019 15:52:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/l7zcdslk1ejs/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[19-May-2019 03:52:14 UTC] PHP Notice:  Undefined index: wp_version in /home/l7zcdslk1ejs/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[19-May-2019 03:52:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/l7zcdslk1ejs/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[19-May-2019 03:53:38 UTC] PHP Notice:  Undefined index: wp_version in /home/l7zcdslk1ejs/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[19-May-2019 03:53:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/l7zcdslk1ejs/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[19-May-2019 03:54:47 UTC] PHP Notice:  Undefined index: wp_version in /home/l7zcdslk1ejs/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[19-May-2019 03:54:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/l7zcdslk1ejs/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[19-May-2019 03:56:09 UTC] PHP Notice:  Undefined index: wp_version in /home/l7zcdslk1ejs/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[19-May-2019 03:56:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/l7zcdslk1ejs/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[19-May-2019 03:57:04 UTC] PHP Notice:  Undefined index: wp_version in /home/l7zcdslk1ejs/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[19-May-2019 03:57:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/l7zcdslk1ejs/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/twentyseventeen/functions.php on line 16

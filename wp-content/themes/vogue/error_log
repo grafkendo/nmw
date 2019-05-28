@@ -22,3 +22,111 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[05-May-2019 07:50:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[06-May-2019 05:45:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[06-May-2019 08:00:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[07-May-2019 08:08:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[07-May-2019 23:32:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[08-May-2019 08:19:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[09-May-2019 08:03:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[10-May-2019 08:17:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[10-May-2019 16:59:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[11-May-2019 07:32:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[12-May-2019 07:45:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[13-May-2019 07:37:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[14-May-2019 07:39:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[15-May-2019 07:27:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[16-May-2019 08:29:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[17-May-2019 07:30:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[18-May-2019 07:37:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[19-May-2019 07:53:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[20-May-2019 08:17:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[21-May-2019 07:53:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[22-May-2019 07:55:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[23-May-2019 07:21:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[24-May-2019 07:29:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[25-May-2019 07:16:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[26-May-2019 07:23:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[27-May-2019 07:14:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
+[28-May-2019 07:30:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/l7zcdslk1ejs/public_html/wp-content/themes/vogue/index.php on line 14
